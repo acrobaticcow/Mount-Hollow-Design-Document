@@ -1,0 +1,24 @@
+
+Faraway in fantasy land where magic flow like water there is an evil sorcerer name Korgon. He built himself a magical catalyst of great power. The magical catalyst would amplified his power. With it he revive an army of the death, creating the undead race. Making him the first ever necromancer. This action create a new branch of magic which broadly call dark magic. Using his army of death he had wage war across the land to establish his dominant. He plan to use it to spread the reach of his power across the land to make everyone an undead and amenable to his will.
+
+Facing the threat, beings across the land united in resistance. They flatten his area with thousand of magical cannon, destroying the catalyst in the process but he escape and gone into hiding. This free the undead of his will but they still remain unkillable. 
+
+All undead are once human and many if not all are amiable. They have achieved enlightenment during their final moments. They also does not compete with the living for resources. Many family and friends went to find their past member in hope of a long last reunion. Still, their existence is a threat because Korgon could return at any moment and control them again. The common consensus is to lock them away and anyone who shelter them are prosecuted by law. A widespread hunt commence, aiming to capture every undead and locked them in a shared grave deep underground where they belong. 
+
+After the war, a great captain who sympathize with the undead refuse his call of duty to participate in the hunt. It would break his heart to think his wife who die during her labor would subject to this kind of treatment. He demand the king to grant him a reward for his contribution. The king agree and grant him a plot of land in the hinterland where no one live. The area is infamously known for being hard to grow any meaningful crops. Still, he is determined to make a live out of there. He invite his best friend who is a shaman on the journey. Together with his daughter they travel there to start a farm. 
+
+Not too long after their arrival, they discovered that the area is a hideout of the undead. They have dug deep underground creating a complex web of tunnels and caverns. 
+
+Our captain being a sympathizer of the undead soon gain their trust and become their good friend. The shaman use his healing power to invigorate the land and water, while the undead would disguise themself as farmhand to help with the labor. Soon enough they reaped their first bountiful harvest. They spend all day harvesting all the while singing till sunrise.
+
+After each harvest, the shaman would drive the wagon to towns selling their crops and the art that the undead made. Each times he would go to different towns and ask around for any clues of the necromancer. They have agreed Korgon must die for the sake of the undead. Only then that they have a chance of being freed. 
+
+His daughter would help her father with the business side of things and also looking for any possible clues through texts. She also received martial art training by her father and magical tutoring by the shaman. She would draw direct inspiration from the undead, incorporate it into her training to create her own brand of dark magic. 
+
+While the shaman look around for the necromancer. The necromancer have come for him. Slaying him and turn him into his puppet. 
+
+The shaman would later return to their farm with the necromancer. He convinced the captain to trust the guy as he know the location of Korgon. That night Korgon sneak out to find his undead, leaving the shaman to deal with the captain and his daughter. He would kill the captain first then the girl later. The girl discover him during the act, tried to stop but is proven too weak and soon join her father. 
+
+Meanwhile, Korgon have gone inside the cavern, cast a spell and resume his control of the undead. Using his newly built catalyst he would cast an impenetrable shield around the region, sealing it from the world. Learning from the undead, he then raised a grand manor from the ground, inside the mountain. He would start the first step of his plan here. He deeply rupture the land and imbued his power inside. Making anything that died an undead and every undead his ally. He then used the last of his power to seal the catalyst within himself, strengthening him for a while longer. With his last strength he split himself into 5 beings. All share 1 mind. Each carrying a shard within themself. With all the power of the catalyst being spent, they then enter hibernation for restoration. This time, he think to himself, surely no one can stop him. 
+
+The rupture drop their home directly into the cavern of the undead. The girl wake up. Now she is a undead, but still remain control of herself. The girl haven't know it yet but her dark magic has excluded her from the influence of Korgon. Now she all alone, with no way but forward. Go to the mountain, slay Korgon. 

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"182c51bbc6232080","type":"text","text":"**This girl aim to slay the king of demon, the most vicious being**\n\n![[Pasted image 20240430193613.png]]\n","x":-780,"y":-400,"width":340,"height":420,"color":"3"},
+		{"id":"fc0f77f7286ece9c","type":"text","text":"**What is her heroic ambition**","x":-314,"y":-292,"width":250,"height":60,"color":"5"},
+		{"id":"a22cd0e68b15fb4f","type":"text","text":"**Why she think she have what it take to do that ?** ","x":4,"y":-400,"width":250,"height":80,"color":"5"},
+		{"id":"9dbdfebaec8c8047","type":"text","text":"**What does it benefit her ?**","x":4,"y":-180,"width":250,"height":60,"color":"5"},
+		{"id":"9858077aa5ebec8f","type":"text","text":"She is powerful know how to fight in both demon and human style\n\n[[Background (draft 1)#^3d424c]]\n\n","x":340,"y":-542,"width":260,"height":162},
+		{"id":"1bd77557e3c3e527","type":"file","file":"game dev/Project 2/Main character/Where is she come from.md","x":-271,"y":-911,"width":471,"height":471}
+	],
+	"edges":[
+		{"id":"49b04826be7c518f","fromNode":"182c51bbc6232080","fromSide":"right","toNode":"fc0f77f7286ece9c","toSide":"left"},
+		{"id":"3cebdd0d490be5b2","fromNode":"fc0f77f7286ece9c","fromSide":"right","toNode":"a22cd0e68b15fb4f","toSide":"left"},
+		{"id":"a2fb4d1ae89be4de","fromNode":"fc0f77f7286ece9c","fromSide":"right","toNode":"9dbdfebaec8c8047","toSide":"left"},
+		{"id":"17b75cb93ba03335","fromNode":"182c51bbc6232080","fromSide":"right","toNode":"1bd77557e3c3e527","toSide":"left"},
+		{"id":"1137efb98c80a57d","fromNode":"a22cd0e68b15fb4f","fromSide":"right","toNode":"9858077aa5ebec8f","toSide":"left"}
+	]
+}
