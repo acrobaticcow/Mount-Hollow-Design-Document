@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "5f9516428497092e",
+    "type": "split",
+    "children": [
+      {
+        "id": "817f591ca1ab6ac8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15da1641d9a2a3a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e27d4dd133f38662",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bc7de91a8c3509a",
+    "type": "split",
+    "children": [
+      {
+        "id": "378ddeea8a8f25c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0461ad59ed3f9a68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "362c4c8f8a26590e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82c5fac1fa317b7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "69c1d9d2bf2ff450",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f6dbd59a5cfda02",
+    "type": "split",
+    "children": [
+      {
+        "id": "79c67684d5b09cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c22c23c0becc1d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d084c2e049908621",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "382a5ea9687e7a4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "180b760f6239ea2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "87735803d0420ea2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0d332875a199137",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba0fb8956bcf5270",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "15da1641d9a2a3a3",
+  "lastOpenFiles": [
+    "game dev/Project 2/Enemies/Gorath the Unyielding.md",
+    "game dev/Project 2/Character abilities/All.md",
+    "game dev/Project 2/Enemies/Captain Thomas Caver.md",
+    "game dev/Project 2/Character abilities/Dash.md",
+    "game dev/Project 2/Enemies",
+    "game dev/Project 2/Character abilities/Fire Blaze.md",
+    "game dev/Game Diagram.md",
+    "daily notes/2024-05-10.md",
+    "game dev/Project 2/Main character/Stat.md",
+    "game dev/Project 2/Main character/Personality.md",
+    "game dev/Project 2/Main character/Main character.canvas",
+    "game dev/Project 2/Background/Synopsis.md",
+    "daily notes/2024-05-09.md",
+    "game dev/Project 2/Main character/Where is she come from.md",
+    "game dev/Project 2/Main character/What is her heroic ambition.md",
+    "game dev/Project 2/Levels/Level 1.md",
+    "game dev/Project 2/Core loop.md",
+    "game dev/Project 2/Background/Background (draft 3).md",
+    "game dev/Project 2/Background/Background (5).md",
+    "daily notes/2024-05-06.md",
+    "game dev/Project 2/Background/Background ( draft 4 ).md",
+    "daily notes/2024-05-05.md",
+    "game dev/Project 2/Scripts/Intro.md",
+    "game dev/Project 2/Background/Background (draft 1).md",
+    "daily notes/2024-05-04.md",
+    "game dev/Project 2/Scripts/The woods.md",
+    "game dev/Project 2/Chapters/Chapter 1/Scenes/The tomb.md",
+    "game dev/Project 2/Chapters/Chapter 1/Scenes/The meeting room.md",
+    "game dev/Project 2/Scripts",
+    "game dev/Project 2/Levels",
+    "game dev/Project 2/Background",
+    "game dev/Project 2/Character abilities",
+    "game dev/Project 2/Main character/Untitled.canvas",
+    "game dev/Project 2/Main character",
+    "graphic programming/vector",
+    "graphic programming",
+    "game dev/Project 2/Chapters/Chapter 1/attachments/Pasted image 20240430193613.png",
+    "game dev/Project 2/Chapters/Chapter 1/attachments",
+    "game dev/Project 2",
+    "Untitled.canvas",
+    "Pasted image 20240222180831.png",
+    "Pasted image 20240222173141.png",
+    "Pasted image 20240223223106.png",
+    "Pasted image 20240222180850.png",
+    "Pasted image 20240222180803.png",
+    "Pasted image 20240222180541.png",
+    "Pasted image 20240222173131.png",
+    "Pasted image 20240222172511.png",
+    "Pasted image 20240222180321.png"
+  ]
+}

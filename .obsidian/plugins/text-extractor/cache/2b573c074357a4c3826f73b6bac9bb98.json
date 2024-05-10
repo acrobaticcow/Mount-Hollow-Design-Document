@@ -1,0 +1,1 @@
+{"path":"Pasted image 20240222180321.png","text":"python def greet(name): print(\"Hello, \" + name + \"I\") greet(\"World\") def factorial(n): if n == @: return 1 else: return n * factorial(n-1) print(factorial(5))","libVersion":"0.3.1","langs":"eng"}

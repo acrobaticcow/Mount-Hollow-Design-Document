@@ -1,0 +1,1 @@
+{"path":"Pasted image 20240222173451.png","text":"ruby def greet(name) puts \"Hello, #{name}!\" end greet(\"World\")","libVersion":"0.3.1","langs":"eng"}
