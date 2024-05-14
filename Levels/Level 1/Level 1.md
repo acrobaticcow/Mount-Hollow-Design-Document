@@ -16,7 +16,5 @@ Will test the player skill against all type of enemy
 Challenge player platforming ability ( it will be easier if the player learn the energy shot ) --> placing multiple enemy in a straight line will help with this 
 
 Layout ideas 
-* zigzag layout: Test platforming abilities, teach the player how to [[Pogo (en-US)]] 
-
-
+* zigzag layout: %% Test platforming abilities, teach the player how to [[Pogo (en-US)]],  %% --> Shouldn't, learned from Hollow Knight, introduce this mechanic gradually, this is a useful and slightly difficult and advanced mechanic to pull through. 
 
