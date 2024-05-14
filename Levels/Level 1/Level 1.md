@@ -3,7 +3,7 @@ Story:
 Objectives: Explore the area, find the key to unlock level 3 . 
 Scripts: [[The woods]]
 Enemies: Simple Creeper, Flying Cyclops, Spider, [[Foot soldier]], Bow Soldier
-Bosses: Assihn Tah 
+Bosses: Surja Das The Shaman `optional`, [[Captain Thomas Caver]]
 
 Tile sets: 
 Background: 
@@ -16,8 +16,7 @@ Will test the player skill against all type of enemy
 Challenge player platforming ability ( it will be easier if the player learn the energy shot ) --> placing multiple enemy in a straight line will help with this 
 
 Layout ideas 
-* zigzag layout: Test platforming abilities, teach the player how to pogus 
-
+* zigzag layout: Test platforming abilities, teach the player how to [[Pogo (en-US)]] 
 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Levels/Level 1.md",
+                "file": "Levels/Level 1/Level 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Levels/Level 1.md",
+                "file": "Levels/Level 1/Level 1.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e27d4dd133f38662",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -122,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Levels/Level 1.md",
+                "file": "Levels/Level 1/Level 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Levels/Level 1.md",
+                "file": "Levels/Level 1/Level 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,12 +170,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Levels/Level 1.md"
+                "file": "Levels/Level 1/Level 1.md"
               }
+            }
+          },
+          {
+            "id": "44b3482d9cadd589",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -203,12 +203,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2bd519a89966b2bf",
+  "active": "0461ad59ed3f9a68",
   "lastOpenFiles": [
-    "Levels/Enemies/Foot soldier.md",
-    "Levels/Level 1.md",
-    "Levels/Enemies/Captain Thomas Caver.md",
-    "Levels/Enemies/Gorath the Unyielding.md",
+    "Terminologies",
+    "Terminologies/Pogo (en-US).md",
+    "Levels/Level 1/Level 1.md",
+    "Levels/Level 1/Enemies/Captain Thomas Caver.md",
+    "Levels/Level 1/Enemies/Gorath the Unyielding.md",
+    "Levels/Level 1",
+    "Levels/Level 1/Enemies/Foot soldier.md",
     "Levels/Enemies/Untitled",
     "game dev/Project 2/Enemies/Gorath the Unyielding.md",
     "game dev/Project 2/Character abilities/All.md",
@@ -232,8 +235,6 @@
     "daily notes/2024-05-06.md",
     "game dev/Project 2/Background/Background ( draft 4 ).md",
     "daily notes/2024-05-05.md",
-    "game dev/Project 2/Scripts/Intro.md",
-    "game dev/Project 2/Background/Background (draft 1).md",
     "game dev/Project 2/Scripts",
     "game dev/Project 2/Levels",
     "game dev/Project 2/Background",
@@ -243,7 +244,6 @@
     "graphic programming/vector",
     "graphic programming",
     "game dev/Project 2/Chapters/Chapter 1/attachments/Pasted image 20240430193613.png",
-    "game dev/Project 2/Chapters/Chapter 1/attachments",
     "Untitled.canvas",
     "Pasted image 20240222180831.png",
     "Pasted image 20240222173141.png",
