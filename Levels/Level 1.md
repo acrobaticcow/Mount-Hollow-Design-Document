@@ -1,4 +1,4 @@
-Setting: Cavern area 1 - undead residences  
+Setting: Cavern area 1 - un  
 Story: 
 Objectives: Find her house. 
 Scripts: [[The woods]]
