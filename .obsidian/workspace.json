@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2bd519a89966b2bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Levels/Level 1/Level 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,15 +190,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0461ad59ed3f9a68",
+  "active": "15da1641d9a2a3a3",
   "lastOpenFiles": [
-    "Terminologies",
+    "Levels/Level 1/Enemies/Gorath the Unyielding.md",
+    "Levels/Level 1/Enemies/Captain Thomas Caver.md",
+    "Levels/Level 1/Enemies/Foot soldier.md",
+    "Main character/Main character.canvas",
     "Terminologies/Pogo (en-US).md",
     "Levels/Level 1/Level 1.md",
-    "Levels/Level 1/Enemies/Captain Thomas Caver.md",
-    "Levels/Level 1/Enemies/Gorath the Unyielding.md",
+    "Terminologies",
     "Levels/Level 1",
-    "Levels/Level 1/Enemies/Foot soldier.md",
     "Levels/Enemies/Untitled",
     "game dev/Project 2/Enemies/Gorath the Unyielding.md",
     "game dev/Project 2/Character abilities/All.md",
@@ -242,7 +230,6 @@
     "game dev/Project 2/Main character/Untitled.canvas",
     "game dev/Project 2/Main character",
     "graphic programming/vector",
-    "graphic programming",
     "game dev/Project 2/Chapters/Chapter 1/attachments/Pasted image 20240430193613.png",
     "Untitled.canvas",
     "Pasted image 20240222180831.png",
