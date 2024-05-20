@@ -18,3 +18,5 @@ Challenge player platforming ability ( it will be easier if the player learn the
 Layout ideas 
 * zigzag layout: %% Test platforming abilities, teach the player how to [[Pogo (en-US)]],  %% --> Shouldn't, learned from Hollow Knight, introduce this mechanic gradually, this is a useful and slightly difficult and advanced mechanic to pull through. 
 
+I think i am going to have another burn out
+
