@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "changes notes/2024-05-20.md",
+                "file": "Levels/Level 1/Level 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "changes notes/2024-05-20.md",
+                "file": "Levels/Level 1/Level 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "changes notes/2024-05-20.md",
+                "file": "Levels/Level 1/Level 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "changes notes/2024-05-20.md"
+                "file": "Levels/Level 1/Level 1.md"
               }
             }
           },
@@ -190,10 +190,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "15da1641d9a2a3a3",
+  "active": "0461ad59ed3f9a68",
   "lastOpenFiles": [
-    "Levels/Level 1/Level 1.md",
+    "Level 1.pdf",
+    "changes notes/2024-05-21.md",
     "changes notes/2024-05-20.md",
+    "Levels/Level 1/Level 1.md",
     "changes notes",
     "Levels/Level 1/Enemies/Gorath the Unyielding.md",
     "Levels/Level 1/Enemies/Captain Thomas Caver.md",
@@ -223,8 +225,6 @@
     "game dev/Project 2/Background/Background (draft 3).md",
     "game dev/Project 2/Background/Background (5).md",
     "daily notes/2024-05-06.md",
-    "game dev/Project 2/Background/Background ( draft 4 ).md",
-    "daily notes/2024-05-05.md",
     "game dev/Project 2/Scripts",
     "game dev/Project 2/Levels",
     "game dev/Project 2/Background",

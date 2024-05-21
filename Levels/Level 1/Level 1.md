@@ -1,22 +1,20 @@
 Setting: Cavern area 1 - the defend  
-Story: 
-Objectives: Explore the area, find the key to unlock level 3 . 
-Scripts: [[The woods]]
+Objectives: Explore the area, find dash skill to reach level 2. 
 Enemies: Simple Creeper, Flying Cyclops, Spider, [[Foot soldier]], Bow Soldier
 Bosses: Surja Das The Shaman `optional`, [[Captain Thomas Caver]]
 
-Tile sets: 
-Background: 
-Items: Energy shot, dash
 
-## Room A9
+| Monster                         | Qty |
+| ------------------------------- | --- |
+| Simple Creeper                  | 5   |
+| Flying Cyclops (Flying monster) | 10  |
+| Spider                          | 5   |
+| Foot soldier                    | 5   |
+| Bow soldier                     | 5   |
 
-Includes all the enemies
-Will test the player skill against all type of enemy 
-Challenge player platforming ability ( it will be easier if the player learn the energy shot ) --> placing multiple enemy in a straight line will help with this 
-
-Layout ideas 
-* zigzag layout: %% Test platforming abilities, teach the player how to [[Pogo (en-US)]],  %% --> Shouldn't, learned from Hollow Knight, introduce this mechanic gradually, this is a useful and slightly difficult and advanced mechanic to pull through. 
-
-I think i am going to have another burn out
-
+| Items              | Description                                            | Location                 | Qty |
+| ------------------ | ------------------------------------------------------ | ------------------------ | --- |
+| Health shard       | collect 3 health shard to increase max health by 1     |                          | 3   |
+| Sword shard        | collect 3 shard to increase atd                        |                          | 3   |
+| Projectiles attack | shoot a projectiles that pass through multiple enemies | After defeat The Shaman  | 1   |
+| Dash               |                                                        | After defeat the captain | 1   |
