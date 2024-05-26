@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Levels/Level 1/Level 1.md",
+                "file": "changes notes/2024-05-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Levels/Level 1/Level 1.md",
+                "file": "changes notes/2024-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Levels/Level 1/Level 1.md",
+                "file": "changes notes/2024-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Levels/Level 1/Level 1.md"
+                "file": "changes notes/2024-05-22.md"
               }
             }
           },
@@ -190,12 +190,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0461ad59ed3f9a68",
+  "active": "15da1641d9a2a3a3",
   "lastOpenFiles": [
+    "Levels/Level 1/Level 1.md",
+    "changes notes/2024-05-22.md",
     "Level 1.pdf",
     "changes notes/2024-05-21.md",
     "changes notes/2024-05-20.md",
-    "Levels/Level 1/Level 1.md",
     "changes notes",
     "Levels/Level 1/Enemies/Gorath the Unyielding.md",
     "Levels/Level 1/Enemies/Captain Thomas Caver.md",
@@ -230,7 +231,6 @@
     "game dev/Project 2/Background",
     "game dev/Project 2/Character abilities",
     "game dev/Project 2/Main character/Untitled.canvas",
-    "game dev/Project 2/Main character",
     "game dev/Project 2/Chapters/Chapter 1/attachments/Pasted image 20240430193613.png",
     "Untitled.canvas",
     "Pasted image 20240222180831.png",
